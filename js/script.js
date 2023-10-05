@@ -1,6 +1,6 @@
 //INTRO INFINITE CHANGING TEXT
 var typed = new Typed('#text', {
-    strings: ["Java Developer", ".Net Developer", "React Developer", "Web Developer"],
+    strings: ["Full Stack Developer","Java Developer", ".Net Developer", "React Developer", "Web Developer"],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
